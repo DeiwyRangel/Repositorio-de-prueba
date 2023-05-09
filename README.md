@@ -1,2 +1,1 @@
-# Repositorio-de-prueba
-mi primer repositorio de la sección 2 del curso
+este es un nuevo repositorio de prueba para ver si estoy haciendo los pasos bien xd
